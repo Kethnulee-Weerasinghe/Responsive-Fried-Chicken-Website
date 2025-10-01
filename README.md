@@ -11,7 +11,7 @@ This is a visually engaging web project showcasing an eye-catching fried chicken
 This is a **responsive, static restaurant / menu website** that highlights fried chicken offerings. It includes sections like Home, About, Order, Combo, Contact, and a footer. Animations and scroll interactions are included for a dynamic user experience. The layout adjusts smoothly across desktop, tablet, and mobile screen sizes.  
 
 - Fully responsive layout across different devices  
-- Scroll-based animations (e.g. elements reveal on scroll)  
+- Scroll-based animations 
 - “Active” navigation highlight as you scroll through sections  
 - Smooth transitions and visual polish  
 - Clean UI/UX suited to food / restaurant branding  
