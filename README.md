@@ -8,12 +8,13 @@ This is a visually engaging web project showcasing an eye-catching fried chicken
 
 ## Overview
 
-This project is a Porsche-themed website clone augmented with an AI chatbot. It’s meant to serve as a portfolio or demo site where users can interact with a “virtual Porsche assistant” that can answer queries, guide users, and simulate conversational interactions.
+This is a **responsive, static restaurant / menu website** that highlights fried chicken offerings. It includes sections like Home, About, Order, Combo, Contact, and a footer. Animations and scroll interactions are included for a dynamic user experience. The layout adjusts smoothly across desktop, tablet, and mobile screen sizes.  
 
-- AI-powered chatbot interface  
-- Automates responses to commonly asked queries  
-- Porsche styling / brand aesthetic  
-- Seamless user experience with frontend & chat overlay 
+- Fully responsive layout across different devices  
+- Scroll-based animations (e.g. elements reveal on scroll)  
+- “Active” navigation highlight as you scroll through sections  
+- Smooth transitions and visual polish  
+- Clean UI/UX suited to food / restaurant branding  
 
 ## Technologies
 
