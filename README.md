@@ -1,6 +1,5 @@
 # Responsive Fried Chicken Website
 
-This project is a visually appealing, fried chicken-themed e-commerce frontend designed to provide a seamless and responsive shopping experience across desktop, tablet, and mobile devices. It features interactive elements, custom styling, and a clean, intuitive interface focused on enhancing user engagement and ease of ordering.
 
 **Live Website:** [https://kethnulee-weerasinghe.github.io/Responsive-Fried-Chicken-Website/](https://kethnulee-weerasinghe.github.io/Responsive-Fried-Chicken-Website/)
 
@@ -8,7 +7,6 @@ This project is a visually appealing, fried chicken-themed e-commerce frontend d
 
 ## Overview
 
-This is a **responsive, static restaurant / menu website** that highlights fried chicken offerings. It includes sections like Home, About, Order, Combo, Contact, and a footer. Animations and scroll interactions are included for a dynamic user experience. The layout adjusts smoothly across desktop, tablet, and mobile screen sizes.  
 
 - Fully responsive layout across different devices  
 - Scroll-based animations 
