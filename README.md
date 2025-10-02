@@ -1,5 +1,6 @@
 # Responsive Fried Chicken Website
 
+A fully responsive, front-end e-commerce website designed for a fictional fried chicken brand. Built with HTML, CSS, and JavaScript, it features animated scrolling, product sections, and a mobile-first layout. The project showcases strong UI skills in building clean, interactive, and user-friendly shopping experiences.
 
 **Live Website:** [https://kethnulee-weerasinghe.github.io/Responsive-Fried-Chicken-Website/](https://kethnulee-weerasinghe.github.io/Responsive-Fried-Chicken-Website/)
 
