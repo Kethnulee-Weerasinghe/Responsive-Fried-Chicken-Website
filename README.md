@@ -10,7 +10,7 @@ A fully responsive, front-end e-commerce website designed for a fictional fried 
 
 This project aims to showcase strong UI and front-end skills via a mock e-commerce site for a fried chicken brand. The site adapts across devices, has animated scroll behavior, and provides a visually engaging browsing experience.
 
-- Fully responsive layout across different devices  
+- Responsive design (desktop / tablet / mobile)  
 - Scroll-based animations 
 - “Active” navigation highlight as you scroll through sections  
 - Smooth transitions and visual polish  
