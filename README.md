@@ -8,6 +8,7 @@ A fully responsive, front-end e-commerce website designed for a fictional fried 
 
 ## Overview
 
+This project aims to showcase strong UI and front-end skills via a mock e-commerce site for a fried chicken brand. The site adapts across devices, has animated scroll behavior, and provides a visually engaging browsing experience.
 
 - Fully responsive layout across different devices  
 - Scroll-based animations 
@@ -28,3 +29,4 @@ To view or edit the project locally:
 ```bash
 git clone https://github.com/Kethnulee-Weerasinghe/Responsive-Fried-Chicken-Website.git
 cd Responsive-Fried-Chicken-Website
+```
